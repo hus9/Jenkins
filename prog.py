@@ -19,5 +19,3 @@ print('x // y =', x//y) # Output: x // y = 3
 # Remainder of the division of left operand by the right
 print('x % y =', x%y) # Output: x % y = 2
 
-# Left operand raised to the power of right (x^y)
-print('x ** y =', x**y) # Output: x ** y = 38416
