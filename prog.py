@@ -1,5 +1,5 @@
-x = 14
-y = 4
+x = 1745
+y = 3202
 
 # Add two operands
 print('x + y =', x+y) # Output: x + y = 18
